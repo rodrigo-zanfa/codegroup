@@ -1,3 +1,24 @@
+# Desafio Técnico SQL - Code Group
+
+
+## Descrição
+
+Entrega das 5 consultas solicitadas através do arquivo `scripts.sql`
+
+Por não ter sido disponibilizado o arquivo para criação da base de dados (modelagem), todos foram criados sem qualquer teste.
+
+### Observações:
+
+- Foi utilizado Transact SQL em alguns casos (rodar em SQL Server)
+- Criei uma branch `sql` no meu repositório do GitHub apenas para evidenciar o PR (ou MR) enviado para a branch `master`
+- Estou também editando o arquivo `README.md` adicionando alguns comentários ANTES do conteúdo original criado por vocês, da qual o repositório foi clonado
+
+
+
+
+
+
+
 # DBA Challenge 20240802
 
 
